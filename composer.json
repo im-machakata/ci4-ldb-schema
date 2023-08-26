@@ -1,0 +1,22 @@
+{
+    "name": "immachakata/ci4-ldb-schema",
+    "description": "Use Laravel like table migration functions",
+    "type": "library",
+    "require": {
+        "codeigniter4/framework": "^4.0",
+        "php":"^7.3|^8.0"
+    },
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "IsaacMachakata\\MigrationsFunction\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Machakata Isaac",
+            "email": "isaac@caasi.co.zw"
+        }
+    ],
+    "minimum-stability": "dev"
+}
