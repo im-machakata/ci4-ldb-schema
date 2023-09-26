@@ -9,7 +9,7 @@
     "license": "GPL",
     "autoload": {
         "psr-4": {
-            "IsaacMachakata\\MigrationsFunction\\": "src/"
+            "CI4Extensions\\LaravelMigrations\\": "src/"
         }
     },
     "authors": [
